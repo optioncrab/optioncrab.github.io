@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://optioncrab.github.io</id>
     <title>螃蟹浏览器API回调接口</title>
-    <updated>2020-04-02T03:12:19.364Z</updated>
+    <updated>2020-04-02T03:13:01.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://optioncrab.github.io"/>
     <link rel="self" href="https://optioncrab.github.io/atom.xml"/>
